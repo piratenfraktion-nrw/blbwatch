@@ -1,0 +1,16 @@
+*.py[co]
+*.db
+*.sql
+*.gz
+*.zip
+*.tar
+*.log
+*.swp
+.DS_Store
+.project
+.pydevproject
+static
+.htpasswd
+media
+blbwatch/urls.py
+blbwatch/settings.py
